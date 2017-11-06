@@ -1,0 +1,9 @@
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\bin\Debug\PokerhandShowdown.Tests.dll
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\bin\Debug\PokerhandShowdown.Tests.pdb
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\obj\Debug\PokerhandShowdown.Tests.csprojResolveAssemblyReference.cache
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\obj\Debug\PokerhandShowdown.Tests.dll
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\obj\Debug\PokerhandShowdown.Tests.pdb
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\bin\Debug\PokerhandShowdown.dll
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\bin\Debug\xunit.dll
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\bin\Debug\PokerhandShowdown.pdb
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown.Tests\bin\Debug\xunit.xml

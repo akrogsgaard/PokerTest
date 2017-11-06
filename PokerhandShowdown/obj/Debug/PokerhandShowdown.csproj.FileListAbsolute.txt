@@ -1,0 +1,5 @@
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown\bin\Debug\PokerhandShowdown.dll
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown\bin\Debug\PokerhandShowdown.pdb
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown\obj\Debug\PokerhandShowdown.csprojResolveAssemblyReference.cache
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown\obj\Debug\PokerhandShowdown.dll
+C:\Manila\TechnicalInterview\PokerTest\AaronKrogsgaard\PokerhandShowdown\PokerhandShowdown\obj\Debug\PokerhandShowdown.pdb
