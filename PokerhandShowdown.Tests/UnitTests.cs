@@ -104,7 +104,7 @@ namespace PokerhandShowdown.Tests
 
             var winner = pokerGame.GetWinner();
 
-            Assert.Equal(jen, winner);
+            Assert.Equal(joe, winner);
         }
 
         [Fact]
